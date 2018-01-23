@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="CalabashDesc">The Calabash of Culture</string>
+    <string name="Ratings">Rating out of 5</string>
+    <string name="description">Vegan gourmet cafe\nSet in a relaxed child friendly atmosphere</string>
+    <string name="address"> 21 Sydenham Rd, London SE26 5EX</string>
+    <string name="OpeningClosing">Monday   -        Wednesday      12-8pm\nThursday   -   Saturday      12-10pm\nSunday    -    Closed</string>
+    <string name="Ratings1">4.5  - 24 reviews</string>
+    <string name="DIRECTIONS">DIRECTIONS</string>
+    <string name="MENU">MENU</string>
+    <string name="SHARE1">SHARE</string>
+    <string name="CALL">CALL</string>
+</resources>
